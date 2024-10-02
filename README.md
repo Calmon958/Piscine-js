@@ -1,2 +1,2 @@
-# Piscine-js
-Familiarizing with JS language
+# piscine-js
+
